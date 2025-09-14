@@ -54,3 +54,9 @@ pfSense deployment for a home lab replicating enterprise security. Features incl
 
     - Navigate to System > Update and apply all security patches.
 
+<img width="1077" height="801" alt="Screenshot_71" src="https://github.com/user-attachments/assets/ce4e0164-5293-40f2-87b6-283f5cc7de0b" />
+<img width="1060" height="784" alt="Screenshot_72" src="https://github.com/user-attachments/assets/606a154c-91ac-4101-9343-fd66706297e8" />
+
+
+    
+
